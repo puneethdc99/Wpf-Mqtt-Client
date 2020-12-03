@@ -1,17 +1,3 @@
-﻿// ============================================================================
-// This document contains confidential and proprietary information of ABB
-// and may be protected by patents, trademarks, copyrights, trade secrets,
-// and/or other relevant state, federal, and foreign laws.  Its receipt or
-// possession does not convey any rights to reproduce, disclose its contents,
-// or to manufacture, use or sell anything contained herein.  Forwarding,
-// reproducing, disclosing or using without specific written authorization of
-// ABB is strictly forbidden.
-// ============================================================================
-// <copyright file="Certificates.cs" company="ABB Ltd">
-//   Copyright © ABB Ltd 2017. All rights reserved.
-// </copyright>
-// ============================================================================
-
 namespace WpfMqttClient
 {
     using System.Collections;
